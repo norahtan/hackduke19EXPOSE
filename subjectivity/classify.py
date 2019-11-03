@@ -28,9 +28,9 @@ def print_sentences(sentences_dict):
     # [print(item) for item in sentences_dict['objective']]
     # print('\nSUBJECTIVE SENTENCES:')
     # [print(item) for item in sentences_dict['subjective']]
-    print('\nOBJECTIVE SENTENCES:')
+    print('\nObjective characters:')
     print(sentences_dict['objective'])
-    print('\nSUBJECTIVE SENTENCES:')
+    print('\nSubjective characters:')
     print(sentences_dict['subjective'])
 
 
